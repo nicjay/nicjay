@@ -1,8 +1,11 @@
 ## Hello Friend.
 
-🗒️[My Gists](https://gist.github.com/nicjay)
+✅ Software  
+✅ Hardware  
+✅ Servers  
+⚠️ Fresh Air
 
-🤓[My reaction when someone responds to my GitHub Issues](https://www.youtube.com/watch?v=SaVTHG-Ev4k)
+🗒️[My Gists](https://gist.github.com/nicjay)
 
 <!--
 **nicjay/nicjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
